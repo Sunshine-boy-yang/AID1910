@@ -34,6 +34,6 @@ socket()->bind()->listen()->accept->recv/send->close()
                  服务端接受图片内容
                  保存在服务端某个位置
 
-
+哈哈哈哈哈哈哈哈哈
 
 
